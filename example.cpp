@@ -24,7 +24,7 @@ int main() {
     cout << "|_____  ||       ||    ___||       ||       ||       ||       ||       ||       ||       ||       |" << endl;
     cout << " _____| ||   _   ||   |    |   _   | |     | |   _   ||   _   | |     | | |     | |     | |     |" << endl;
     cout << "|_______||__| |__||___|    |__| |__|  |___|  |__| |__||__| |__|  |___|   |___|   |___|   |___|  " << endl;
-    cout << "(c) Copyright Voltra Inc. All rights reserved." << endl << endl;
+    cout << "(c) Copyright AUTHOR. All rights reserved." << endl << endl;
 
     while (true) {
         try {
