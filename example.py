@@ -16,7 +16,7 @@ current_dir = f"C:\\Users\\{os.getenv('USERNAME')}"
 os.chdir(current_dir)
 
 print(pyfiglet.figlet_format(str("E x a m p l e")))
-print("(c) Copyright Voltra Inc. All rights reserved.\n")
+print("(c) Copyright AUTHOR. All rights reserved.\n")
 
 while True:
     try:
