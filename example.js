@@ -22,7 +22,7 @@ function promptUser() {
       promptUser();
     } else if (command.startsWith('license')) {
       console.log('\n[CLI]: Opening LICENSE\n');
-      window.location.href = 'https://example.com/license
+      window.location.href = 'https://example.com/license'
       promptUser();
     } else if (command.startsWith('authors')) {
       console.log(`\n[CLI]: (c) Copyright AUTHOR. All rights reserved.\n`);
