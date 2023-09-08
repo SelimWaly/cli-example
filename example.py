@@ -33,7 +33,7 @@ while True:
             
         elif command.startswith("license"):
             print("\n[CLI]: Opening LICENSE\n")
-            webbrowser.open("https://github.com/AUTHOR/CLI/LICENSE")
+            webbrowser.open("https://example.com/license")
 
         elif command.startswith("authors"):
             print(f"\n[CLI]: (c) Copyright AUTHOR. All rights reserved.\n")
