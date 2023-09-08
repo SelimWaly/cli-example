@@ -11,7 +11,7 @@ const rl = readline.createInterface({
 console.clear();
 
 console.log(figlet.textSync('E x a m p l e'));
-console.log('(c) Copyright Voltra Inc. All rights reserved.\n');
+console.log('(c) Copyright AUTHOR. All rights reserved.\n');
 
 function promptUser() {
   rl.question(`${process.env.USERNAME}@CLI ~ $ `, (command) => {
